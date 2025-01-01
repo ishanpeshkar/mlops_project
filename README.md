@@ -1,4 +1,4 @@
-mlops project
+MLops Project - Water Potability Project. 
 ==============================
 
 Water potability prediction using ML
