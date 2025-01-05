@@ -1,7 +1,17 @@
 MLops Project - Water Potability Project. 
 ==============================
+Water potability prediction using Machine Learning. 
 
-Water potability prediction using ML
+![Untitled-2024-08-23-0858](https://github.com/user-attachments/assets/1697127c-ea9b-4314-b563-c803d5eb22dc)
+
+To run this project: [For my Reference]
+<ul>
+  <li>Download and open folder location in VsCode.</li>
+  <li>Make sure you have all the dependencies requirement fullfilled.</li>
+  <li>Copy the path of the prediction file.</li>
+  <li>Type 'python' in the terminal and paste the path of the prediction file and click Enter.</li>
+</ul>
+
 
 Project Organization
 ------------
