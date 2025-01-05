@@ -75,7 +75,7 @@ This project follows a structured workflow to streamline the MLOps process:
   <li>Type 'python' in the terminal and paste the path of the prediction file and click Enter.</li>
 </ul>
 
-## Reference Video : [Watch the Video](https://youtu.be/ubnbC5ZkykY)
+Reference Video : [Watch the Video](https://youtu.be/ubnbC5ZkykY)
 
 
 Project Organization
