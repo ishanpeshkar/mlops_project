@@ -67,7 +67,7 @@ This project follows a structured workflow to streamline the MLOps process:
 # Project Structure
 ![Untitled-2024-08-23-0858](https://github.com/user-attachments/assets/1697127c-ea9b-4314-b563-c803d5eb22dc)
 
-To run this project: [For my Reference]
+# To run this project: [For my Reference]
 <ul>
   <li>Download and open folder location in VsCode.</li>
   <li>Make sure you have all the dependencies requirement fullfilled.</li>
@@ -75,7 +75,7 @@ To run this project: [For my Reference]
   <li>Type 'python' in the terminal and paste the path of the prediction file and click Enter.</li>
 </ul>
 
-Reference Video : [Watch the Video](https://youtu.be/ubnbC5ZkykY)
+## Reference Video : [Watch the Video](https://youtu.be/ubnbC5ZkykY)
 
 
 Project Organization
